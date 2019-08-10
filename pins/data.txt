@@ -1,2 +1,0 @@
-- path: iris/
-- path: iris2/
