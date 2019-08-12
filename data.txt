@@ -3,6 +3,7 @@
   rows: 150
   cols: 5
 - path: mtcars
-  description: The well known 'mtcars' dataset
+  type: table
+  description: A pin for the mtcars dataset
   rows: 32
   cols: 11
