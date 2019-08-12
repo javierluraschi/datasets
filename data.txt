@@ -1,1 +1,6 @@
-[]
+- path: iris/data.csv
+  name: iris
+  type: table
+  description: A pin for the iris dataset
+  rows: 150
+  cols: 5
