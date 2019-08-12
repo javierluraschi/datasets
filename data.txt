@@ -1,5 +1,5 @@
 - path: iris
-  description: A pin for the iris dataset
-  rows: 150
-  cols: 5
 - path: mtcars
+  description: A pin for the mtcars dataset
+  rows: 32
+  cols: 11
