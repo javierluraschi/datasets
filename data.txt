@@ -1,1 +1,2 @@
-- path: iris
+'':
+  path: iris
