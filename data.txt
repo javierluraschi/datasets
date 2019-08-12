@@ -4,3 +4,9 @@
   description: A pin for the iris dataset
   rows: 150
   cols: 5
+- path: mtcars/data.csv
+  name: mtcars
+  type: table
+  description: A pin for the mtcars dataset
+  rows: 32
+  cols: 11
