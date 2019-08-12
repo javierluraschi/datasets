@@ -1,15 +1,1 @@
-- path: iris
-  type: table
-  description: A pin for the iris dataset
-  rows: 150
-  cols: 5
-- path: mtcars
-  type: table
-  description: A pin for the mtcars dataset
-  rows: 32
-  cols: 11
-- path: iris/data.csv
-  type: table
-  description: A pin for the iris dataset
-  rows: 150
-  cols: 5
+[]
