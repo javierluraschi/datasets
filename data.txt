@@ -2,4 +2,5 @@
   name: iris
   rows: 150
   cols: 5
+  description: The famous iris dataset.
   type: table
