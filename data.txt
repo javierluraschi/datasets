@@ -4,3 +4,6 @@
   cols: 5
   description: The famous iris dataset.
   type: table
+- path: afile817
+  name: afile817
+  type: files
