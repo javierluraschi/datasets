@@ -9,4 +9,5 @@ columns:
   Petal.Length: numeric
   Petal.Width: numeric
   Species: factor
+description: The famous iris dataset.
 type: table
