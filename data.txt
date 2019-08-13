@@ -19,3 +19,8 @@
 - path: afile597
   name: afile597
   type: files
+- path: adataset189/data.csv
+  name: adataset189
+  type: table
+  rows: 150
+  cols: 5
