@@ -7,3 +7,8 @@
 - path: afile817
   name: afile817
   type: files
+- path: adataset299/data.csv
+  name: adataset299
+  rows: 150
+  cols: 5
+  type: table
