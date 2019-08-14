@@ -1,5 +1,1 @@
-- path: adataset842/data.csv
-  name: adataset842
-  rows: 150
-  cols: 5
-  type: table
+
