@@ -1,3 +1,8 @@
 - path: afile720
   name: afile720
   type: files
+- path: adataset842/data.csv
+  name: adataset842
+  rows: 150
+  cols: 5
+  type: table
