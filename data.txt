@@ -3,3 +3,8 @@
   rows: 150
   cols: 5
   type: table
+- path: iris/data.csv
+  name: iris
+  rows: 150
+  cols: 5
+  type: table
