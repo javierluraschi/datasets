@@ -1,0 +1,3 @@
+- path: afile720
+  name: afile720
+  type: files
