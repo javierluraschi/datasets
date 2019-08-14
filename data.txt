@@ -8,9 +8,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile737
-  name: afile737
-  type: files
 - path: adataset821/data.csv
   name: adataset821
   rows: 150
