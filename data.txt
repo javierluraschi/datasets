@@ -1,6 +1,3 @@
-- path: afile499
-  name: afile499
-  type: files
 - path: adataset156
   name: adataset156
   rows: 150
