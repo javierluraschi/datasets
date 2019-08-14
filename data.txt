@@ -1,8 +1,0 @@
-- path: afile931
-  name: afile931
-  type: files
-- path: adataset405/data.csv
-  name: adataset405
-  rows: 150
-  cols: 5
-  type: table
