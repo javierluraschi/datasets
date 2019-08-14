@@ -1,1 +1,3 @@
-[]
+- path: afile499
+  name: afile499
+  type: files
