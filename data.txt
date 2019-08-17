@@ -4,3 +4,8 @@
   cols: 5
   description: This iris data set
   type: table
+- path: mtcars
+  name: mtcars
+  rows: 32
+  cols: 11
+  type: table
