@@ -2,7 +2,7 @@
   name: iris
   rows: 150
   cols: 5
-  description: This iris data set
+  description: The iris data set
   type: table
 - path: mtcars
   name: mtcars
