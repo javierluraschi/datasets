@@ -1,1 +1,6 @@
-[]
+- path: iris
+  name: iris
+  rows: 150
+  cols: 5
+  description: This iris data set
+  type: table
