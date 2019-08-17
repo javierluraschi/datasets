@@ -9,5 +9,5 @@ columns:
   Petal.Length: numeric
   Petal.Width: numeric
   Species: factor
-description: This iris data set
+description: The iris data set
 type: table
