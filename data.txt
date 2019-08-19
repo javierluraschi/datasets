@@ -13,3 +13,8 @@
 - path: afile459
   name: afile459
   type: files
+- path: adataset965
+  name: adataset965
+  rows: 150
+  cols: 5
+  type: table
