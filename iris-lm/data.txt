@@ -1,0 +1,6 @@
+path:
+- model.rds
+- residuals.png
+- summary.txt
+formula: Sepal.Length ~ Sepal.Width + Petal.Length + Petal.Width + Species
+type: linear_model
