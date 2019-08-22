@@ -1,8 +1,15 @@
-- path:
-  - http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-train.tfrecord
-  - http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-valid.tfrecord
-  - http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-test.tfrecord
-  name: nsynth
+- path: http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-train.tfrecord
+  name: nsynth/train
+  type: table
+  description: A large-scale and high-quality dataset of annotated musical notes.
+  source: https://magenta.tensorflow.org/datasets/nsynth
+- path: http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-valid.tfrecord
+  name: nsynth/validation
+  type: table
+  description: A large-scale and high-quality dataset of annotated musical notes.
+  source: https://magenta.tensorflow.org/datasets/nsynth
+- path: http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-test.tfrecord
+  name: nsynth/test
   type: table
   description: A large-scale and high-quality dataset of annotated musical notes.
   source: https://magenta.tensorflow.org/datasets/nsynth
