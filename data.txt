@@ -3,5 +3,6 @@
   - http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-valid.tfrecord
   - http://download.magenta.tensorflow.org/datasets/nsynth/nsynth-test.tfrecord
   name: nsynth
+  type: table
   description: A large-scale and high-quality dataset of annotated musical notes.
   source: https://magenta.tensorflow.org/datasets/nsynth
