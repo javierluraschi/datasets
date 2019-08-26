@@ -14,3 +14,8 @@
   name: iris-lm
   formula: Sepal.Length ~ Sepal.Width + Petal.Length + Petal.Width + Species
   type: linear_model
+- path: iris-again
+  name: iris-again
+  rows: 150
+  cols: 5
+  type: table
