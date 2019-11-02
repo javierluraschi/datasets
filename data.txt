@@ -4,3 +4,9 @@
   cols: 3
   description: Game of Thrones dialogs
   type: table
+- path: got-characters
+  name: got-characters
+  rows: 43
+  cols: 3
+  description: Game of Thrones characters
+  type: table
