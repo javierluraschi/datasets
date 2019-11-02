@@ -10,3 +10,9 @@
   cols: 3
   description: Game of Thrones characters
   type: table
+- path: got-references
+  name: got-references
+  rows: 2881
+  cols: 3
+  description: Game of Thrones character references
+  type: table
