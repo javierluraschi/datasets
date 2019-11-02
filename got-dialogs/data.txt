@@ -1,0 +1,11 @@
+path:
+- data.csv
+- data.rds
+rows: 67
+cols: 3
+columns:
+  episode: character
+  title: character
+  dialogs: character
+description: Game of Thrones dialogs
+type: table
