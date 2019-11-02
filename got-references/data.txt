@@ -1,0 +1,11 @@
+path:
+- data.csv
+- data.rds
+rows: 2881
+cols: 3
+columns:
+  episode: character
+  first: character
+  references: integer
+description: Game of Thrones character references
+type: table
