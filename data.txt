@@ -1,0 +1,6 @@
+- path: got-dialogs
+  name: got-dialogs
+  rows: 67
+  cols: 3
+  description: Game of Thrones dialogs
+  type: table
