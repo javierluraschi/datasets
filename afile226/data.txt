@@ -1,0 +1,3 @@
+path: hello.txt
+extension: txt
+type: files
