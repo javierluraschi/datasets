@@ -16,3 +16,7 @@
   cols: 3
   description: Game of Thrones character references
   type: table
+- path: afile698
+  name: afile698
+  extension: txt
+  type: files
