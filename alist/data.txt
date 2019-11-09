@@ -1,2 +1,2 @@
-path: data.rds
-type: default
+path: list.rds
+type: list
