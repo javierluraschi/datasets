@@ -1,0 +1,4 @@
+path:
+- plot.png
+- plot.rds
+type: plot
