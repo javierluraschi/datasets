@@ -1,2 +1,4 @@
-path: list.rds
+path:
+- list.json
+- list.rds
 type: list
