@@ -16,3 +16,6 @@
   cols: 3
   description: Game of Thrones character references
   type: table
+- path: alist
+  name: alist
+  type: default
