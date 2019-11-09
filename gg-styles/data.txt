@@ -1,4 +1,0 @@
-path:
-- plot.png
-- plot.rds
-type: ggplot
