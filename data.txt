@@ -19,3 +19,6 @@
 - path: alist
   name: alist
   type: list
+- path: gg-styles
+  name: gg-styles
+  type: plot
