@@ -21,4 +21,4 @@
   type: list
 - path: gg-styles
   name: gg-styles
-  type: plot
+  type: ggplot
