@@ -28,3 +28,9 @@
   cols: 5
   description: The iris data set
   type: table
+- path: mtcars
+  name: mtcars
+  rows: 32
+  cols: 11
+  description: The motor trend cars data set
+  type: table
