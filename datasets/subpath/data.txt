@@ -1,5 +1,1 @@
-- path: datasets/subpath/mtcars
-  name: mtcars
-  rows: 32
-  cols: 11
-  type: table
+[]
