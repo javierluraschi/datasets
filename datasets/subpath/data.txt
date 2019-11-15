@@ -1,8 +1,3 @@
-- path: datasets/subpath/iris
-  name: iris
-  rows: 150
-  cols: 5
-  type: table
 - path: datasets/subpath/mtcars
   name: mtcars
   rows: 32
