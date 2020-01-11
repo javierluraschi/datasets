@@ -16,3 +16,8 @@
   cols: 3
   description: Game of Thrones character references
   type: table
+- path: tweets-deeplearning-images
+  name: tweets-deeplearning-images
+  rows: 861
+  cols: 1
+  type: table
