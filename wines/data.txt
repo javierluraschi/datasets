@@ -1,0 +1,3 @@
+path: wine-quality.csv
+extension: csv
+type: files
