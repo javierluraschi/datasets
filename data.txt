@@ -1,0 +1,4 @@
+- path: wines
+  name: wines
+  extension: csv
+  type: files
