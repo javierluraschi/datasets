@@ -1,1 +1,5 @@
-[]
+- path: wines
+  name: wines
+  rows: 4898
+  cols: 12
+  type: table
