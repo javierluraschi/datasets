@@ -1,3 +1,4 @@
-path: https://github.com/javierluraschi/datasets/releases/download/test1-79c5cfe/text.file.txt
+path: https://github.com/javierluraschi/datasets/releases/download/test1-3eda85a/text.file.txt
 extension: txt
+description: 2020-02-04 cache of GBIF Taxonomic Names in Darwin Core
 type: files
