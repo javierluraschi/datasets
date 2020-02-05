@@ -16,3 +16,7 @@
   name: flights821
   extension: csvb6111042240
   type: files
+- path: test5
+  name: test5
+  extension: zip
+  type: files
