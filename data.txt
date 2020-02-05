@@ -12,3 +12,7 @@
   extension: txt
   description: 2020-02-04 cache of GBIF Taxonomic Names in Darwin Core
   type: files
+- path: flights821
+  name: flights821
+  extension: csvb6111042240
+  type: files
