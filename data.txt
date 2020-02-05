@@ -7,3 +7,7 @@
   name: text_file
   extension: txt
   type: files
+- path: test1
+  name: test1
+  extension: txt
+  type: files
