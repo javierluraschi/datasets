@@ -3,3 +3,7 @@
   rows: 4898
   cols: 12
   type: table
+- path: text_file
+  name: text_file
+  extension: txt
+  type: files
