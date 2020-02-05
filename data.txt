@@ -16,3 +16,7 @@
   name: flights821
   extension: csvb6111042240
   type: files
+- path: flights50
+  name: flights50
+  extension: csv
+  type: files
