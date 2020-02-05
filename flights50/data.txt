@@ -1,3 +1,0 @@
-path: https://github.com/javierluraschi/datasets/releases/download/flights50-1deb0d0/file11692d684fa1.csv
-extension: csv
-type: files
