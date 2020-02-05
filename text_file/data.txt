@@ -1,0 +1,3 @@
+path: text.file.txt
+extension: txt
+type: files
