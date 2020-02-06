@@ -1,5 +1,5 @@
 path:
-- hello.txt
-- world.txt
+- https://github.com/javierluraschi/datasets/releases/download/hello-8fecaca/hello.txt
+- https://github.com/javierluraschi/datasets/releases/download/hello-8fecaca/world.txt
 extension: zip
 type: files
