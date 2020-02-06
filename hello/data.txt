@@ -1,0 +1,5 @@
+path:
+- hello.txt
+- world.txt
+extension: zip
+type: files
