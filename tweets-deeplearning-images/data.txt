@@ -1,8 +1,0 @@
-path:
-- data.csv
-- data.rds
-rows: 861
-cols: 1
-columns:
-  urls: character
-type: table
