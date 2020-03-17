@@ -18,6 +18,7 @@
   type: table
 - path: cars
   name: cars
-  rows: 150
-  cols: 5
+  rows: 32
+  cols: 11
+  description: overwrite iris with cars
   type: table
