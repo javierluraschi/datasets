@@ -1,12 +1,19 @@
 path:
 - data.csv
 - data.rds
-rows: 150
-cols: 5
+rows: 32
+cols: 11
 columns:
-  Sepal.Length: numeric
-  Sepal.Width: numeric
-  Petal.Length: numeric
-  Petal.Width: numeric
-  Species: factor
+  mpg: numeric
+  cyl: numeric
+  disp: numeric
+  hp: numeric
+  drat: numeric
+  wt: numeric
+  qsec: numeric
+  vs: numeric
+  am: numeric
+  gear: numeric
+  carb: numeric
+description: overwrite iris with cars
 type: table
