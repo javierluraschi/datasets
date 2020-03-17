@@ -20,5 +20,4 @@
   name: cars
   rows: 32
   cols: 11
-  description: overwrite iris with cars
   type: table
