@@ -18,6 +18,6 @@
   type: table
 - path: cars
   name: cars
-  rows: 32
-  cols: 11
+  rows: 150
+  cols: 5
   type: table
