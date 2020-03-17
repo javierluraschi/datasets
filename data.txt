@@ -16,3 +16,8 @@
   cols: 3
   description: Game of Thrones character references
   type: table
+- path: cars
+  name: cars
+  rows: 32
+  cols: 11
+  type: table
