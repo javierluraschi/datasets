@@ -15,5 +15,4 @@ columns:
   am: numeric
   gear: numeric
   carb: numeric
-description: overwrite iris with cars
 type: table
