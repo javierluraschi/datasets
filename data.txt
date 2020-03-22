@@ -21,3 +21,8 @@
   rows: 32
   cols: 11
   type: table
+- path: ver
+  name: ver
+  rows: 150
+  cols: 5
+  type: table
