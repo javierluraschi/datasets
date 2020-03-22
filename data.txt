@@ -34,3 +34,6 @@
 - path: aversion685
   name: aversion685
   type: default
+- path: aversion674
+  name: aversion674
+  type: default
