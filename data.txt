@@ -43,3 +43,8 @@
 - path: aversion680
   name: aversion680
   type: default
+- path: iris
+  name: iris
+  rows: 32
+  cols: 11
+  type: table
