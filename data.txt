@@ -45,6 +45,6 @@
   type: default
 - path: iris
   name: iris
-  rows: 32
-  cols: 11
+  rows: 150
+  cols: 5
   type: table
