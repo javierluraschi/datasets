@@ -16,3 +16,8 @@
   cols: 3
   description: Game of Thrones character references
   type: table
+- path: iris
+  name: iris
+  rows: 150
+  cols: 5
+  type: table
