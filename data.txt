@@ -1,12 +1,18 @@
-path:
-- data.csv
-- data.rds
-rows: 150
-cols: 5
-columns:
-  Sepal.Length: numeric
-  Sepal.Width: numeric
-  Petal.Length: numeric
-  Petal.Width: numeric
-  Species: factor
-type: table
+- path: got-dialogs
+  name: got-dialogs
+  rows: 67
+  cols: 3
+  description: Game of Thrones dialogs
+  type: table
+- path: got-characters
+  name: got-characters
+  rows: 43
+  cols: 3
+  description: Game of Thrones characters
+  type: table
+- path: got-references
+  name: got-references
+  rows: 2881
+  cols: 3
+  description: Game of Thrones character references
+  type: table
