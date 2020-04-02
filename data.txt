@@ -28,6 +28,6 @@
   type: table
 - path: versioned
   name: versioned
-  rows: 150
-  cols: 5
+  rows: 32
+  cols: 11
   type: table
