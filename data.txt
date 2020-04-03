@@ -51,8 +51,3 @@
   rows: 150
   cols: 5
   type: table
-- path: mtcars-release5
-  name: mtcars-release5
-  rows: 150
-  cols: 5
-  type: table
