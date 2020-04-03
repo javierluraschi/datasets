@@ -1,6 +1,6 @@
 path:
-- data.csv
-- data.rds
+- https://github.com/javierluraschi/datasets/releases/download/mtcars-release-df641a7/data.csv
+- https://github.com/javierluraschi/datasets/releases/download/mtcars-release-df641a7/data.rds
 rows: 150
 cols: 5
 columns:
