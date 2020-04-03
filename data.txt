@@ -36,3 +36,8 @@
   rows: 32
   cols: 11
   type: table
+- path: mtcars-release2
+  name: mtcars-release2
+  rows: 32
+  cols: 11
+  type: table
