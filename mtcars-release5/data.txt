@@ -1,18 +1,12 @@
 path:
 - https://github.com/javierluraschi/datasets/releases/download/mtcars-release5/data.csv
 - https://github.com/javierluraschi/datasets/releases/download/mtcars-release5/data.rds
-rows: 32
-cols: 11
+rows: 150
+cols: 5
 columns:
-  mpg: numeric
-  cyl: numeric
-  disp: numeric
-  hp: numeric
-  drat: numeric
-  wt: numeric
-  qsec: numeric
-  vs: numeric
-  am: numeric
-  gear: numeric
-  carb: numeric
+  Sepal.Length: numeric
+  Sepal.Width: numeric
+  Petal.Length: numeric
+  Petal.Width: numeric
+  Species: factor
 type: table
