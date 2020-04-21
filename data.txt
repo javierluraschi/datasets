@@ -51,3 +51,8 @@
   rows: 150
   cols: 5
   type: table
+- path: versioned-2
+  name: versioned-2
+  rows: 150
+  cols: 5
+  type: table
