@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 2
+rows: 5
 cols: 5
 columns:
   Sepal.Length: numeric

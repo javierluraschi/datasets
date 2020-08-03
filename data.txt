@@ -58,6 +58,6 @@
   type: table
 - path: iris-small
   name: iris-small
-  rows: 2
+  rows: 5
   cols: 5
   type: table
