@@ -56,3 +56,8 @@
   rows: 32
   cols: 11
   type: table
+- path: iris-small
+  name: iris-small
+  rows: 2
+  cols: 5
+  type: table
