@@ -61,3 +61,6 @@
   rows: 5
   cols: 5
   type: table
+- path: model
+  name: model
+  type: default
