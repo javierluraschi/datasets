@@ -67,3 +67,8 @@
 - path: file15b30647eb507
   name: file15b30647eb507
   type: linear_model
+- path: aapl
+  name: aapl
+  rows: 8364
+  cols: 7
+  type: table

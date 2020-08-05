@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 8364
+cols: 7
+columns:
+  Date: factor
+  Open: numeric
+  High: numeric
+  Low: numeric
+  Close: numeric
+  Volume: integer
+  OpenInt: integer
+type: table
