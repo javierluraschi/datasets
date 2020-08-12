@@ -21,4 +21,3 @@
   rows: 861
   cols: 1
   type: table
-
