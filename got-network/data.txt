@@ -1,0 +1,12 @@
+path:
+- data.csv
+- data.rds
+rows: 760
+cols: 5
+columns:
+  Source: factor
+  Target: factor
+  Type: factor
+  weight: integer
+  book: integer
+type: table

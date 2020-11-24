@@ -72,3 +72,8 @@
   rows: 8364
   cols: 7
   type: table
+- path: got-network
+  name: got-network
+  rows: 760
+  cols: 5
+  type: table
